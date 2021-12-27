@@ -1,2 +1,5 @@
-# Query-Extraction-Understanding (QEU) 
-## Implemented in Python
+# QEU Python Implementation
+
+## What Is QEU
+
+Query-Extraction-Understanding (QEU) 
