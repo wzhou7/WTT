@@ -3,15 +3,16 @@
 This repositoty implements the collocated topic modeling method in Python. This method is described in Jung, Zhou, & Smith (2024) with an illustrative study. There is also an R implementation available at the [WTTR](https://github.com/wzhou7/WTTR) repository.
 
 # How to Use
+
 To install this Python package from github, you need to clone that repository.
 ```
 git clone https://github.com/wzhou7/WIIP.git
 ```
-Then just run the setup.py file from that directory,
+Then, install it in develop mode by run the following command from inside the root dir of the cloned repo:
 ```
-sudo python setup.py install
+pip install -e .
 ```
-Then, you can use the implemented functions to explore your data. See example study.
+Now you can use the implemented functions to explore your data. See example study.
 
 # Citation
 
