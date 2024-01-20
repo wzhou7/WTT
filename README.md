@@ -13,7 +13,8 @@ or via BibTeX code:
 
 ```
 @ARTICLE{jung2024textual,
-  title =        {From Textual Data to Theoretical Insights: Introducing and Applying the Word-Text-Topic Extraction Approach},
+  title =        {From Textual Data to Theoretical Insights: Introducing and
+                  Applying the Word-Text-Topic Extraction Approach},
   author =       {Jung, Jaewoo and Zhou, Wenjun and Smith, Anne},
   journal =      {Organizational Research Methods (ORM)},
   pages =        {forthcoming},
