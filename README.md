@@ -7,7 +7,7 @@ This repositoty implements the collocated topic modeling method in Python. This 
 
 If you use our code in your study, please cite:
 
-Jung, J., Zhou, W., and Smith, A. (2024). **From Textual Data to Theoretical Insights: Introducing and Applying the Word-Text-Topic Extraction Approach.** *Organizational Research Methods (ORM)*.
+> Jung, J., Zhou, W., and Smith, A. (2024). **From Textual Data to Theoretical Insights: Introducing and Applying the Word-Text-Topic Extraction Approach.** *Organizational Research Methods (ORM)*.
 
 or via BibTeX code:
 
