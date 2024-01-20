@@ -6,7 +6,7 @@ This repositoty implements the collocated topic modeling method in Python. This 
 
 To install this Python package from github, you need to clone that repository.
 ```
-git clone https://github.com/wzhou7/WIIP.git
+git clone https://github.com/wzhou7/WTTP.git
 ```
 Then, install it in develop mode by run the following command from inside the root dir of the cloned repo:
 ```
