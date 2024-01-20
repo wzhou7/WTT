@@ -1,4 +1,6 @@
-# QEU Python Implementation
+# Collocated Topic Modeling Python Implementation
+
+Word-Text-Topic (WTT) Extraction 
 
 ## What Is QEU
 
