@@ -1,6 +1,6 @@
 # Collocated Topic Modeling
 
-This repository contains the implementation of the collocated topic modeling method as described in Jung, Zhou, & Smith (2024). 
+This repository contains the implementation of the collocated topic modeling method as described in [Jung, Zhou, & Smith (2024)](https://journals.sagepub.com/doi/abs/10.1177/10944281241228186). 
 There is an R version and a Python version.
 
 # Citation
