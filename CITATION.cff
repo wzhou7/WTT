@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Wenjun"
+  given-names: "Zhou"
+  orcid: "https://orcid.org/0000-0003-2346-8151"
+- family-names: "Jung"
+  given-names: "Jaewoo"
+  orcid: "https://orcid.org/0000-0002-8409-4360"
+- family-names: "Smith"
+  given-names: "Anne"
+  orcid: "https://orcid.org/0000-0003-1408-7859"
+title: "Collocated Topic Modeling"
+version: 2.0.4
+doi: 10.1177/10944281241228186
+date-released: 2025-03-19
+url: "https://github.com/wzhou7/WTT"
