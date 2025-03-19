@@ -1,6 +1,6 @@
 # Collocated Topic Modeling R Implementation
 
-This repositoty implements the collocated topic modeling method in R. This method is described in Jung, Zhou, & Smith (2024) with an illustrative study. There is also a Python implementation available at the [WTTP](https://github.com/wzhou7/WTTP) repository.
+This repositoty implements the collocated topic modeling method in R. This method is described in [Jung, Zhou, & Smith (2025)](https://journals.sagepub.com/doi/abs/10.1177/10944281241228186) with an illustrative study. 
 
 # How to Use
 
@@ -10,37 +10,17 @@ For example,
 ```
 install.packages("devtools") # install devtools
 library(devtools) # load devtools
-install_github("wzhou7/WTTR") # install WTTR
+install_github("wzhou7/WTT") # install WTT
 ```
 
 The above code needs to be run just once.
-Then, you can load the `WTTR` package each time of use:
+Then, you can load the `WTT` package each time of use:
 
 ```
-library(WTTR) # load WTTR
+library(WTT) # load WTT
 ```
 
 Then, you can use the implemented functions to explore your data. See example study.
-
-# Citation
-
-If you use our code in your study, please cite:
-
-> Jung, J., Zhou, W., and Smith, A. (2024). **From Textual Data to Theoretical Insights: Introducing and Applying the Word-Text-Topic Extraction Approach.** *Organizational Research Methods (ORM)*.
-
-or via BibTeX code:
-
-```
-@ARTICLE{jung2024textual,
-  title =        {From Textual Data to Theoretical Insights: Introducing and
-                  Applying the Word-Text-Topic Extraction Approach},
-  author =       {Jung, Jaewoo and Zhou, Wenjun and Smith, Anne},
-  journal =      {Organizational Research Methods (ORM)},
-  pages =        {forthcoming},
-  year =         {2024}
-}
-```
-
 
 # Using Google Pretrained Word Vectors in R
 
